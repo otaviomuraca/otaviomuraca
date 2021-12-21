@@ -1,3 +1,9 @@
+<div style = "botoes" align="right">
+  <a href="https://instagram.com/otaviomuraca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:otaviomuraca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/otaviomuraca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 # Meu nome é Otávio Muraca (Otto)! 
 <div>
 ✪ Masters Degree in Big Data and Digital Marketing (2021)<br>
@@ -6,12 +12,11 @@
 </div>
 <br>
 ==============================================
+<br>
 
-<div style = "botoes" align="right">
-  <a href="https://instagram.com/otaviomuraca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:otaviomuraca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/otaviomuraca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## My GitHub Stats 💻 
+
+
 
 <br>
 <div align="left">
@@ -22,7 +27,11 @@
  
  <br>
 ==============================================
-  
+ 
+<br>
+
+## Support Me!  
+
 <div style = "coffe" align ="left">
 
 If you like what I do, maybe consider help me to keep studying
