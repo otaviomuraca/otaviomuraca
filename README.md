@@ -35,7 +35,7 @@
 
 <div style = "coffe" align ="left">
 
-If you like what I do, maybe consider help me to keep studying
+If you like what I do, maybe consider help me keep my studies.
 <br>🥺👉👈 <br>
 <br>
 
