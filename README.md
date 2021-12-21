@@ -1,12 +1,11 @@
 # Meu nome é Otávio Muraca (Otto)! 
 <div>
-✪ Senior Video Editor - Educational Video Producer <br>
-✪ Advertising and Marketing <br>
-✪ Python Studying <br>
+✪ Masters Degree in Big Data and Digital Marketing (2021)<br>
+✪ Graduation in Advertising and Marketing (2009) <br> 
+✪ Senior Video Editor - Educational Video Producer (+13 years)<br>
 </div>
 <br>
 ==============================================
-
 
 <div style = "botoes" align="right">
   <a href="https://instagram.com/otaviomuraca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -20,6 +19,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviomuraca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"></a>
 
  </div>
+ 
  <br>
 ==============================================
   
@@ -27,6 +27,7 @@
 
 If you like what I do, maybe consider help me to keep studying
 <br>🥺👉👈 <br>
+<br>
 
 <a href="https://www.buymeacoffee.com/otaviomuraca" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
 
