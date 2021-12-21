@@ -4,7 +4,8 @@
   <a href="https://www.linkedin.com/in/otaviomuraca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-# Meu nome é Otávio Muraca (Otto)! 
+### Hi there 👋,
+# My name is Otavio Muraca (Otto)! 
 <div>
 ✪ Masters Degree in Big Data and Digital Marketing (2021)<br>
 ✪ Graduation in Advertising and Marketing (2009) <br> 
