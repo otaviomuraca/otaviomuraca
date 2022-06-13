@@ -28,16 +28,23 @@
 <br>
  ==============================================
 <div>
-<h2> Certificados</h2>
+<h2>Certifications</h2>
+  <div><h3>ALURA</h3>
 </div>
 <div class='certificados'>
-  <a href='https://cursos.alura.com.br/certificate/17eec162-9fa9-4a87-80b1-3327bdc7d28c' target="_blank">PYTHON PARA DATA SCIENCE - ALURA</a>
+  <a href='https://cursos.alura.com.br/certificate/17eec162-9fa9-4a87-80b1-3327bdc7d28c' target="_blank">PYTHON PARA DATA SCIENCE</a>
   <br>
-  <a href='https://cursos.alura.com.br/certificate/a539e8c4-b424-4b57-84f1-7a9b725fbcfd' target="_blank">PYTHON PARA DATA SCIENCE: LINGUAGEM E NUMPY - ALURA</a>
+  <a href='https://cursos.alura.com.br/certificate/a539e8c4-b424-4b57-84f1-7a9b725fbcfd' target="_blank">PYTHON PARA DATA SCIENCE: LINGUAGEM E NUMPY</a>
   <br>
   <a href='https://cursos.alura.com.br/certificate/8bd81b44-82ab-4de0-b68a-e17e02fba0a0' target="_blank">PYTHON PARA DATA SCIENCE: FUNÇÕES, PACOTES E PANDAS</a>
    <br>
   <a href='https://cursos.alura.com.br/certificate/00a49040-0a7f-4122-9a84-100c2a7467b0' target="_blank">PYTHON PANDAS: TRATANDO E ANALISANDO DADOS</a>
+  <br>
+  <a href='https://cursos.alura.com.br/certificate/26cb78d4-cec0-4aa5-be87-8348848fa52a' target="_blank">PANDAS: FORMATOS DIFERENTES DE ENTRADA E SAÍDA (IO)</a>
+  <br>
+  <a href='https://cursos.alura.com.br/certificate/85f43d58-5173-4c83-afdd-1c8b09f9cbc1' target="_blank">DATA VISUALIZATION: EXPLORANDO COM SEABORN</a>
+  
+  </div>
   
 </div>
 
