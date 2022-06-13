@@ -7,7 +7,7 @@
 ### Hi there 👋,
 # My name is Otavio Muraca (Otto)! 
 <div>
-✪ Masters Degree in Big Data and Digital Marketing (2021)<br>
+✪ Masters Degree in Big Data and Digital Marketing (2021-2022)<br>
 ✪ Graduation in Advertising and Marketing (2009) <br> 
 ✪ Senior Video Editor - Educational Video Producer (+13 years)<br>
 </div>
