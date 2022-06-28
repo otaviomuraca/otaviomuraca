@@ -40,7 +40,7 @@
   <div class='Data Scientist - EBAC'>
     <a href='#' target="_blank">Data Scientist - EBAC</a>
   <br>
-  
+    </div>
     <div><h3>FIAP</h3>
 </div>
 <div class='FIAP'>
