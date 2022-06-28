@@ -44,23 +44,23 @@
     <div><h3>FIAP</h3>
 </div>
 <div class='FIAP'>
-    <a href='#' target="_blank">Inteligência Arfificial e Computacional. 80h</a>
+    <a href='https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/36592/8c45b12b4f94d0badd6cd13fb4c6614f/certificado.png' target="_blank">Inteligência Arfificial e Computacional. 80h</a>
   <br>
   <div><h3>Alura</h3>
 </div>
 
 <div class='alura'>
-  <a href='https://cursos.alura.com.br/certificate/17eec162-9fa9-4a87-80b1-3327bdc7d28c' target="_blank">Python para Data Science.</a>
+  <a href='https://cursos.alura.com.br/certificate/17eec162-9fa9-4a87-80b1-3327bdc7d28c' target="_blank">Python para Data Science. 10h</a>
   <br>
-  <a href='https://cursos.alura.com.br/certificate/a539e8c4-b424-4b57-84f1-7a9b725fbcfd' target="_blank">Python para Data Science: Linguagem e NumPy.</a>
+  <a href='https://cursos.alura.com.br/certificate/a539e8c4-b424-4b57-84f1-7a9b725fbcfd' target="_blank">Python para Data Science: Linguagem e NumPy. 12h</a>
   <br>
-  <a href='https://cursos.alura.com.br/certificate/8bd81b44-82ab-4de0-b68a-e17e02fba0a0' target="_blank">Python para Data Science: Funções, Pacotes e Pandas.</a>
+  <a href='https://cursos.alura.com.br/certificate/8bd81b44-82ab-4de0-b68a-e17e02fba0a0' target="_blank">Python para Data Science: Funções, Pacotes e Pandas. 10h</a>
    <br>
-  <a href='https://cursos.alura.com.br/certificate/00a49040-0a7f-4122-9a84-100c2a7467b0' target="_blank">Python Pandas: Tratando e Analisando Dados.</a>
+  <a href='https://cursos.alura.com.br/certificate/00a49040-0a7f-4122-9a84-100c2a7467b0' target="_blank">Python Pandas: Tratando e Analisando Dados. 12h</a>
   <br>
-  <a href='https://cursos.alura.com.br/certificate/26cb78d4-cec0-4aa5-be87-8348848fa52a' target="_blank">Pandas: Formatos Diferentes de Entrada e Saída (IO).</a>
+  <a href='https://cursos.alura.com.br/certificate/26cb78d4-cec0-4aa5-be87-8348848fa52a' target="_blank">Pandas: Formatos Diferentes de Entrada e Saída (IO). 6h</a>
   <br>
-  <a href='https://cursos.alura.com.br/certificate/85f43d58-5173-4c83-afdd-1c8b09f9cbc1' target="_blank">Data Visualization: Explorando com SeaBorn.</a>
+  <a href='https://cursos.alura.com.br/certificate/85f43d58-5173-4c83-afdd-1c8b09f9cbc1' target="_blank">Data Visualization: Explorando com SeaBorn. 6h</a>
   
   </div>
   
