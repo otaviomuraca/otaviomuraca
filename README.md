@@ -36,9 +36,7 @@
   <br>
   <div class='Pós Graduação Anhembi Morumbi'>
     <a href='#' target="_blank">Especialização em Big Data e Marketing Digital. Anhembi Morumbi.</a>
-  <br>
-  <div class='Data Scientist - EBAC'>
-    <a href='#' target="_blank">Data Scientist - EBAC</a>
+  
   <br>
     </div>
     <div><h3>FIAP</h3>
