@@ -41,8 +41,14 @@
     <a href='#' target="_blank">Data Scientist - EBAC</a>
   <br>
   
+    <div><h3>FIAP</h3>
+</div>
+<div class='FIAP'>
+    <a href='#' target="_blank">Inteligência Arfificial e Computacional. 80h</a>
+  <br>
   <div><h3>Alura</h3>
 </div>
+
 <div class='alura'>
   <a href='https://cursos.alura.com.br/certificate/17eec162-9fa9-4a87-80b1-3327bdc7d28c' target="_blank">Python para Data Science.</a>
   <br>
