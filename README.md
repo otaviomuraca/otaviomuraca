@@ -8,7 +8,7 @@
   <img src="https://img.icons8.com/?size=60&id=hZvpN3zV45Yf&format=png" width="50" height="50" data-canonical-src="#" style="max-width: 50%;">  
   <img src="https://img.icons8.com/?size=60&id=3BTBsJs5myRy&format=png" width="50" height="50" data-canonical-src="#" style="max-width: 50%;">  
   <img src="https://img.icons8.com/?size=60&id=T0j9CuvwjrBM&format=png" width="50" height="50" data-canonical-src="#" style="max-width: 50%;">  
-  <img src="https://camo.githubusercontent.com/dd8b0601cdfefe534a6a26f4c29c7f8a5fcfc315002655f519c73121f7bad8bc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" width="50" height="50" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width: 50%;">  
+  <img src="https://img.icons8.com/?size=60&id=cyigUQkeuMUj&format=png" width="50" height="50" data-canonical-src="#" style="max-width: 50%;">  
   
 </div>
 
