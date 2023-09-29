@@ -5,7 +5,7 @@
 </div>
 
 <div align="right">
-  <img src="https://img.icons8.com/?size=60&id=hZvpN3zV45Yf&format=png" width="50" height="50" data-canonical-src="#" style="max-width: 50%;">  
+  <img src="https://img.icons8.com/?size=60&id=hZvpN3zV45Yf&format=png" width="50" height="50" data-canonical-src="#" style="max-width: 20%;">  
   <img src="https://img.icons8.com/?size=60&id=3BTBsJs5myRy&format=png" width="50" height="50" data-canonical-src="#" style="max-width: 50%;">  
   <img src="https://img.icons8.com/?size=60&id=T0j9CuvwjrBM&format=png" width="50" height="50" data-canonical-src="#" style="max-width: 50%;">  
   <img src="https://img.icons8.com/?size=60&id=cyigUQkeuMUj&format=png" width="50" height="50" data-canonical-src="#" style="max-width: 50%;">  
