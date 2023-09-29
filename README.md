@@ -4,7 +4,12 @@
   <a href="https://www.linkedin.com/in/otaviomuraca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### Hi there 👋,
+<div align="left">
+   <img src="https://camo.githubusercontent.com/dd8b0601cdfefe534a6a26f4c29c7f8a5fcfc315002655f519c73121f7bad8bc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" width="50" height="50" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width: 50%;">  
+  
+</div>
+
+### Hi there,
 # My name is Otavio Muraca (Otto)! 
 <div>
 ✪ Masters Degree in Big Data and Digital Marketing (2021-2022)<br>
@@ -24,7 +29,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviomuraca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"></a>
 
  </div>
- <img src="https://camo.githubusercontent.com/dd8b0601cdfefe534a6a26f4c29c7f8a5fcfc315002655f519c73121f7bad8bc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" width="50" height="50" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width: 100%;">
+
 <br>
  ==============================================
 <div>
